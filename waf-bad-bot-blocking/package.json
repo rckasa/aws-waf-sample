@@ -9,7 +9,7 @@
   "repository": {},
   "dependencies": {
     "async": "^1.5.2",
-    "validator": "^4.5.2"
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "aws-sdk": "latest",
