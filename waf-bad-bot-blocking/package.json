@@ -8,7 +8,7 @@
   },
   "repository": {},
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^3.2.2",
     "validator": "^4.5.2"
   },
   "devDependencies": {
